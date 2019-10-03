@@ -1,23 +1,23 @@
 {
-  "name": "webscythe/router",
-  "description": "Router package for webscythe framework",
-  "license": "MIT",
-  "support": {
-    "issues": "https://github.com/webscythe/framework/issues",
-    "source": "https://github.com/webscythe/framework"
-  },
-  "authors": [
-    {
-      "name": "Liviu Gelea",
-      "email": "liviu.gelea@gmail.com"
-    }
-  ],
-  "require": {
-    "php": "^7.2",
-    "nikic/fast-route": "^1.3"
-  },
-  "require-dev": {
-    "mockery/mockery": "^1.2"
-  },
-  "minimum-stability": "dev"
+    "name": "webscythe/router",
+    "description": "Router package for webscythe framework",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/webscythe/framework/issues",
+        "source": "https://github.com/webscythe/framework"
+    },
+    "authors": [
+        {
+            "name": "Liviu Gelea",
+            "email": "liviu.gelea@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "nikic/fast-route": "^1.3"
+    },
+    "require-dev": {
+        "mockery/mockery": "^1.2"
+    },
+    "minimum-stability": "dev"
 }
