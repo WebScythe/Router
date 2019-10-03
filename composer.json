@@ -1,6 +1,6 @@
 {
   "name": "webscythe/router",
-  "description": "description_text",
+  "description": "Router package for webscythe framework",
   "license": "MIT",
   "support": {
     "issues": "https://github.com/webscythe/framework/issues",
